@@ -1,6 +1,7 @@
 # Commercial Broiler Operations Hub — Precision Poultry Economics & Performance Index
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-2563EB?style=for-the-badge&logo=github)](https://wijaya-rama.github.io/portfolio-smart-broiler/)
+[![Tableau Public Ready](https://img.shields.io/badge/Tableau%20Workbook-.TWBX%20Packaged-E97627?style=for-the-badge&logo=tableau&logoColor=white)](Smart_Broiler_Story_Production.twbx)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 [![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Data Architecture](https://img.shields.io/badge/Data-Star_Schema_&_Flat_CSV-10B981?style=for-the-badge&logo=microsoftexcel&logoColor=white)](data/)
