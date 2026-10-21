@@ -212,7 +212,7 @@ Open [http://localhost:8000](http://localhost:8000) in your browser.
 ## Author & Attribution
 
 * **Author**: Rama Wijaya
-* **LinkedIn**: [Rama Wijaya](https://www.linkedin.com/in/rama-wijaya/)
+* **LinkedIn**: [Rama Wijaya](https://www.linkedin.com/in/ramawijaya1)
 * **Portfolio**: [GitHub Profile](https://github.com/wijaya-rama)
 * **Domain Focus**: Commercial Agribusiness Analytics, Financial Operations Modeling & Tableau Engineering
 
